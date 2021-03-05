@@ -1,0 +1,47 @@
+/*COMMON*/
+img{
+    max-width: 100%;
+}
+
+/*HEADER*/
+/*NAV*/
+header .top_bar {
+    padding: 15px 0;
+}
+
+.logo{
+    max-height: 40px;
+    width: auto;
+    text-align: left;
+}
+
+header .left_nav{
+    display: inline-block;
+    width: 54%;
+    padding-left: 85px;
+}
+
+header .right_nav{
+    display: inline-block;
+    width: 45%;
+    text-align: right;
+}
+
+header li{
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+#login_button{
+    color: #066dff;
+}
+
+.burger_menu {
+    font-size: 25px;
+    text-align: right;
+    
+}
+/*FINE NAV*/
+/*FINE HEADER*/
